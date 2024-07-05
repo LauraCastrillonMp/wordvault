@@ -1,1 +1,1 @@
-A dictionary of English words with a modern UI for don't be boring learning English
+A dictionary of English words with a modern UI so i don't get bored learning English
